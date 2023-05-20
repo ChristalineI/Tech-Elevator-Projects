@@ -1,5 +1,5 @@
 # Tech-Elevator-Projects
-These are the 3 large group projects I had to complete in order to graduate the program and were my first experiences working with a team while coding. :) 
+These are the 3 group projects I had to complete in order to graduate the program and were my first exposure to developing on a team. It was challenging and awesome to create with my classmates. :)
 
 1. Vending Machine Application - Developed with a team of four in C# /.NET using OOP fundamentals and File I/O. This application allows a user to input money, show current balance, select an item from a list, view current inventory, purchase an item, receive change and it logs all transactions in a text file.
 
